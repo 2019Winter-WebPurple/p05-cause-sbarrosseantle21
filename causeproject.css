@@ -1,0 +1,31 @@
+/*
+* Name Sarah Barrosse-Antle
+* Due Date 5/19/19
+* Project Name and Description Cause Project
+*/
+
+*/
+
+/* The universal selector */
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Body atrributes here */
+
+Body {
+    background-color: lavenderblush;
+
+}
+h1 {font-family:"courgette", "lobster","cursive"; text-decoration: bold; color: darkmagenta;}
+h3 {font-family:"courgette", "lobster","cursive"; text-decoration: underline; color:darkmagenta}
+img { width: 250px; height: 250px;border: 3px dotted; margin:5px 10px 5px 10px; float: left;} 
+header { border-bottom: 2px solid darkmagenta}
+footer { border-bottom: 2px solid darkmagenta; border-top: 2px solid darkmagenta}
+h5 {font-family:"courgette", "lobster","cursive"; text-decoration: bold; color:darkmagenta}
+
+
+
